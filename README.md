@@ -25,7 +25,7 @@ Start the bot using npm start to begin listening for TradingView alerts and send
 
 Follow these steps to set up and run the Telegram Listing Bot for TradingView on your server:
 
-# 1. Follow to the my telegram group to get new updates and fixes https://t.me/+nd2gZeuLtQsxMDFi
+# 1. Follow to the my telegram group to get new updates and fixes https://t.me/+PNoHqrZ5O0FlZmZi
 
 2. Extract files with password 
 3. Configure your environment:
